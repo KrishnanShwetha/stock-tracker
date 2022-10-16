@@ -1,6 +1,6 @@
 # stock-tracker
 
-> **_NOTE:_**  Please read the final report document for in-depth information.
+> **_NOTE:_**  Please read the Final Project Report document for in-depth information.
 
 
 1.	Introduction
