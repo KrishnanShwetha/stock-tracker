@@ -122,10 +122,8 @@ The testing method we chose to do is the Black-box-testing method. This techniqu
  
 
 
-11. GitHub Link to Project Source Code
-     https://github.com/ranishah0402/cs411-stock-tracker.git
 
-12. Conclusion (Lessons Learned)
+11. Conclusion (Lessons Learned)
 
 Our group learned many valuable lessons during the life-cycle of this project, both technical and project management skills. 
 
