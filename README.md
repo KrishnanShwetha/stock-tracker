@@ -1,5 +1,8 @@
 # stock-tracker
 
+> **_NOTE:_**  Please read the final report document for in-depth information.
+
+
 1.	Introduction
 This a solution for a customer who wants to be able to track specific stocks on the New York Stock Exchange, by customizing their experience. The user will be able to select their stock of interest, input their required upper and lower threshold values and monitor it through a user-friendly dynamic graph. They now will not have to search through multiple stocks and can easily be notified when desired values are reached, making their investment journey more efficient, helping them make better, well-informed, and timely financial decisions. 
 
@@ -53,4 +56,4 @@ project binder
 8. sequence diagram
 9. activity diagram
 
-> **_NOTE:_**  Please read the final report document for in-depth information.
+
